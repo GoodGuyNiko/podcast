@@ -11,11 +11,11 @@
     height: 100%;
     display: flex;
     align-items: center;
-    padding-left: 150px;
+    padding-left: 10px;
   }
   
   .navbar .leftSide img {
-    width: 70px;
+    width: 300px;
   }
   
   .navbar .rightSide {
