@@ -1,7 +1,7 @@
 import React from 'react'
 import { Button } from '../components/Button'
 import '../styles/HeroSection.css';
-import videoBg from '../assets/brandit_background_video.mp4'
+import videoBg from '../assets/brandit_video.mp4'
 import logoHead from '../assets/brandit_logo_white.png'
 
 function HeroSection() {

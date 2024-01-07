@@ -18,15 +18,13 @@ function Navbar() {
         <Link to="/"><img src={Logo} alt="brandit. Logo Orange" /></Link>
         <div className='hiddenLinks'>
         <Link to="/">Home</Link>
-        <Link to="/blog">Blog</Link>
-        <Link to="/kontakt">Kontakt</Link>
+        <Link to="/Episoden">Episoden</Link>
         <Link to="/newsletter">Newsletter</Link>
         </div>
       </div>
       <div className="rightSide">
         <Link to="/">Home</Link>
-        <Link to="/blog">Blog</Link>
-        <Link to="/kontakt">Kontakt</Link>
+        <Link to="/Episoden">Episoden</Link>
         <Link to="/newsletter">Newsletter</Link>
         <button onClick={toggleNavbar}>
         <ReorderIcon />

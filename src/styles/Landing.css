@@ -1,7 +1,64 @@
 .landingContainer {
-    background-color: #fff;
+    background-color: #FDF7F5;
+    color: #F15A24;
     text-align: center;
-    padding-left: 80px;
-    padding-right: 80px;
+    padding-left: 5%;
+    padding-right: 5%;
     font-size: larger;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    height:50vh;
+    
 }
+
+/* .landingContent {
+    width: 80%;
+    max-width: 1170px;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 50px 30px;
+    
+} */
+
+.landingContent {
+    width: 80%;
+    display: grid;
+    grid-gap: 30px;
+
+}
+
+@media (min-width: 300px) {
+    .landingContent {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (max-width: 1024px) {
+    .landingContent {
+        grid-template-columns: 1fr;
+    }
+}
+
+.quote {
+    font-size: 3rem;
+    font-style: italic;
+    margin-right: 10%;
+    /* height: 50vh; */
+    display: flex;
+    align-items: center;
+    text-align: left;
+}
+
+.infoText {
+    font-style: inherit;
+    margin-left: 10%;
+    /* height: 50vh; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: left;
+}
+
