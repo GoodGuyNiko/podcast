@@ -16,10 +16,10 @@ var year = new Date().getFullYear()
     <div className="footer">
       <div className='socialMedia'>
         <Link to='https://www.instagram.com' target="_blank" rel="noopener noreferrer"><InstagramIcon /></Link>
-        <Link to='https://www.youtube.com' target="_blank" rel="noopener noreferrer"><YouTubeIcon /></Link>
+        <Link to='https://www.youtube.com/channel/UCgiXFlW5Oqkwf3To8vF89uw' target="_blank" rel="noopener noreferrer"><YouTubeIcon /></Link>
         <Link to='https://www.x.com' target="_blank" rel="noopener noreferrer"><TwitterIcon /></Link>
         <Link to='https://www.linkedin.com' target="_blank" rel="noopener noreferrer"><LinkedInIcon /></Link>
-        <Link to='https://www.spotify.com' target="_blank" rel="noopener noreferrer"><MicIcon /></Link>
+        <Link to='https://open.spotify.com/show/3JYc6CejghMVvFXCrzZne8' target="_blank" rel="noopener noreferrer"><MicIcon /></Link>
       </div>
       <p>&copy; {year} <a href='https://www.greymountains.de' className='greyMountains'>Grey Mountains Media</a></p>
     </div>

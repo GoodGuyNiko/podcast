@@ -3,6 +3,7 @@ import { Button } from '../components/Button'
 import '../styles/HeroSection.css';
 import videoBg from '../assets/brandit_video.mp4'
 import logoHead from '../assets/brandit_logo_white.png'
+import { Link } from 'react-router-dom';
 
 function HeroSection() {
   return (
@@ -14,9 +15,9 @@ function HeroSection() {
         <Button className='btns' buttonStyle='btn--outline' buttonSize='btn--large'>
             ABOUT
         </Button>
-        <Button className='btns' buttonStyle='btn--primary' buttonSize='btn--large'>
+        <Link to='https://open.spotify.com/show/3JYc6CejghMVvFXCrzZne8' target="_blank" rel="noopener noreferrer"><Button className='btns' buttonStyle='btn--primary' buttonSize='btn--large'>
          SPOTIFY 
-        </Button>
+        </Button></Link>
         </div> 
     </div>
   )

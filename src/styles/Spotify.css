@@ -1,0 +1,20 @@
+.spotifyPlayer {
+    background-color: #FDF7F5;
+    display: flex;
+    justify-content: center;
+    height: 50vh;
+}
+
+.spotifyHeadline {
+    color: #F15A24;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 3%;
+}
+
+.spotify {
+    width: 75%;
+    margin-top: 3%;
+    margin-bottom: 3%;
+}
+

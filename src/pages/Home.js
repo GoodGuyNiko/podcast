@@ -5,6 +5,7 @@ import '../styles/Home.css';
 import HeroSection from '../components/HeroSection';
 import Landing from '../components/Landing'
 import Landing2 from '../components/Landing2'
+import Spotify from '../components/Spotify'
 
 function Home() {
   return (
@@ -12,6 +13,7 @@ function Home() {
       <HeroSection />
       <Landing />
       <Landing2 />
+      <Spotify />
     </>
 
     // <div className="home" style={{ backgroundImage: `url(${BannerImage})` }}>
