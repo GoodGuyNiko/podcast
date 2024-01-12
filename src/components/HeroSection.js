@@ -9,6 +9,7 @@ function HeroSection() {
   return (
     <div className='hero-container'>
      <video src={videoBg} autoPlay loop muted />
+     <div className='heroText'>
      <img className='headerLogo' src={logoHead} alt='Brandit. Logo White' />
         <p>Der Branding Podcast</p>
         <div className='hero-btns'>
@@ -18,6 +19,7 @@ function HeroSection() {
         <Link to='https://open.spotify.com/show/3JYc6CejghMVvFXCrzZne8' target="_blank" rel="noopener noreferrer"><Button className='btns' buttonStyle='btn--primary' buttonSize='btn--large'>
          SPOTIFY 
         </Button></Link>
+        </div>
         </div> 
     </div>
   )
