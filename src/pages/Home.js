@@ -11,9 +11,9 @@ function Home() {
   return (
     <>
       <HeroSection />
-      <Landing />
+      {/* <Landing />
       <Landing2 />
-      <Spotify />
+      <Spotify /> */}
     </>
 
     // <div className="home" style={{ backgroundImage: `url(${BannerImage})` }}>
