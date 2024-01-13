@@ -1,6 +1,6 @@
 import { Component } from 'react';
 import '../styles/About.css'
-import podMic from '../assets/brandit_podcast_mic.png'
+// import podMic from '../assets/brandit_podcast_mic.png'
 
 class AboutData extends Component {
     render(){
