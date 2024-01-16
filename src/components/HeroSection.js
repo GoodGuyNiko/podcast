@@ -11,7 +11,7 @@ function HeroSection() {
      <video src={videoBg} autoPlay loop muted />
      <div className='heroText'>
      <img className='headerLogo' src={logoHead} alt='Brandit. Logo White' />
-        <p>Der Branding Podcast</p>
+        <p className='pHead'>Der Branding Podcast</p>
         <div className='hero-btns'>
         <Button className='btns' buttonStyle='btn--outline' buttonSize='btn--large'>
             ABOUT
