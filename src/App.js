@@ -3,6 +3,7 @@ import Navbar from './components/Navbar';
 import Footer from './components/Footer';
 import Home from './pages/Home';
 import {BrowserRouter as Router, Route, Routes} from 'react-router-dom';
+import UserProfileCard from './components/UserProfileCard';
 
 
 function App() {
@@ -14,6 +15,7 @@ function App() {
         <Route path="/" element={<Home />} />
         
       </Routes>
+      <UserProfileCard />
       <Footer />
       </Router>
     </div>
