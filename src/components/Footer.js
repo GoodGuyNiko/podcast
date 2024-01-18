@@ -72,10 +72,14 @@ const Footer = () => {
           <a href=''>Instagram</a>
           <a href=''>TikTok</a>
           <a href=''>LinkedIn</a>
+        </div>
+        <div>
           <h4>Podcast</h4>
           <a href=''>Spotify</a>
           <a href=''>Youtube</a>
           <a href=''>X</a>
+        </div>
+        <div>
           <h4>Kontakt</h4>
           <a href=''>Kontakt</a>
           <a href=''>Impressum</a>
