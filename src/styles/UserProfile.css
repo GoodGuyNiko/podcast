@@ -19,3 +19,27 @@
     padding: 5px;
     background: white;
 }
+
+.profileTitle {
+    font-size: 36px;
+    font-weight: 600;
+}
+
+.profileDescription {
+    padding: 20px 40px;
+    font-size: 16px;
+}
+
+.profileButton {
+    font-size: 16.px;
+    background: #2b5dff;
+    margin: 10px 100px;
+    padding-top: 8px;
+    padding-bottom: 10px;
+    border-radius: 40px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
