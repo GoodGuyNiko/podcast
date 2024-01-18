@@ -4,9 +4,6 @@ import React from 'react';
 import '../styles/Home.css';
 import HeroSection from '../components/HeroSection';
 import About from '../components/About'
-import Landing from '../components/Landing'
-import Landing2 from '../components/Landing2'
-import Spotify from '../components/Spotify'
 
 function Home() {
   return (
