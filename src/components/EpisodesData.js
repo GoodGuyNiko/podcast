@@ -2,7 +2,7 @@ import '../styles/Episodes.css'
 
 import React from 'react'
 
-function EpisodesData() {
+function EpisodesData(props) {
   return (
     <div className='eCard'>
       <div className='eImage'>

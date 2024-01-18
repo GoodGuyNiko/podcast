@@ -1,4 +1,4 @@
-.footer {
+/* .footer {
     width: 100%;
     height: 200px;
     background-color: #121619;
@@ -19,4 +19,28 @@
   .footer p {
     color: white;
   }
-  
+   */
+
+.footer {
+  padding: 4rem 6rem;
+  background: #000;
+  color: #fff;
+}
+
+.top {
+  display: flex;
+  align-items: center;
+  text-align: start;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.socialMedia i {
+  color: #fff;
+  font-size: 2rem;
+  margin-left: 1rem;
+}
+
+.socialMedia i:hover {
+  color: #F15A24;
+}
