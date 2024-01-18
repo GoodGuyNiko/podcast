@@ -1,6 +1,6 @@
 import { Component } from 'react';
 import '../styles/About.css'
-// import podMic from '../assets/brandit_podcast_mic.png'
+
 
 class AboutData extends Component {
     render(){
@@ -9,10 +9,11 @@ class AboutData extends Component {
             <div className='textAbout'>
             <h2>{this.props.heading}</h2>
             <p>{this.props.text} </p>
+            <p>{this.props.text2}</p>
         </div>
         <div className='imageAbout'>
-            <img alt='brandit. microphone' src={this.props.img1} />
-            {/* <img alt='brandit. microphone' src={this.props.img2} /> */}
+            <img alt='brandit. podmic' src={this.props.img1} />
+            <img alt='brandit. rodecaster' src={this.props.img2} />
             </div>
         </div>
         )

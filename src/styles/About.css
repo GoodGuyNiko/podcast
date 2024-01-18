@@ -39,11 +39,11 @@
     box-shadow: -1px 1px 62px -18px rgba(0, 0, 0, 0.19);
 }
 
-/* .imageAbout img:nth-child(2) {
+.imageAbout img:nth-child(2) {
     position: absolute;
     top: -10%;
     right: 0;
-} */
+}
 
 @media screen and (max-width: 850px) {
     .about {
