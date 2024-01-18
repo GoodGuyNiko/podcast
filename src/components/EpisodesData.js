@@ -6,8 +6,10 @@ function EpisodesData() {
   return (
     <div className='eCard'>
       <div className='eImage'>
-        <img src='' alt='' />
+        <img src={props.image} alt='' />
       </div>
+      <h4>{props.heading}</h4>
+      <p>{props.text}</p>
     </div>
   )
 }
