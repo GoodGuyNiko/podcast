@@ -5,7 +5,7 @@ import '../styles/About.css'
 class AboutData extends Component {
     render(){
         return(
-            <div className='firstAbout'>
+            <div className={this.props.className}>
             <div className='textAbout'>
             <h2>{this.props.heading}</h2>
             <p>{this.props.text} </p>

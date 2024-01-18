@@ -13,6 +13,14 @@
     margin-top: 4.5rem;
 }
 
+.firstAboutReverse {
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 4.5rem;
+}
+
 .textAbout {
     width: 45%;
     text-align: start;

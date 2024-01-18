@@ -15,7 +15,7 @@ function App() {
         <Route path="/" element={<Home />} />
         
       </Routes>
-      <UserProfileCard />
+      {/* <UserProfileCard /> */}
       <Footer />
       </Router>
     </div>
