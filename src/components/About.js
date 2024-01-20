@@ -1,8 +1,8 @@
 import React from 'react'
 import '../styles/About.css'
 import AboutData from './AboutData'
-import podMic from '../assets/Mic_Placeholder.png'
-import AudioSetup from '../assets/Rodecaster_placeholder.png'
+import podMic from '../assets/RodeMic.jpg'
+import AudioSetup from '../assets/RodeCaster.jpg'
 
 const About =() => {
   return (
