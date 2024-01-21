@@ -1,9 +1,10 @@
 import React from 'react'
 import UserProfileCard from './UserProfileCard'
+import '../styles/Hosts.css'
 
 function Hosts() {
   return (
-    <div>
+    <div className='upc'>
       <UserProfileCard />
     </div>
   )
