@@ -1,13 +1,14 @@
 import React from 'react'
 import '../styles/UserProfile.css'
-import SvenjaIcon from '../assets/Svenja.jpg'
+import SvenjaIcon from '../assets/Svenja_Schweres_brandit.jpg'
+import NikoIcon from '../assets/Niko_Schweres_brandit.jpg'
 
 const UserProfileCard = () => {
   return (
     <div className='upc'>
       <div className='gradiant'></div>
       <div className='profileDown'>
-        <img src={SvenjaIcon} alt='' />
+        <img src={SvenjaIcon} alt='Foto Svenja Schweres brandit.' />
         <div className='profileTitle'>Svenja Schweres</div>
         <div className='profileDescription'>
         Bacon ipsum dolor amet pancetta prosciutto filet mignon, sausage pork belly 
@@ -19,7 +20,7 @@ const UserProfileCard = () => {
       </div>
       <div className='gradiant'></div>
       <div className='profileDown'>
-        {/* <img src={} alt='' /> */}
+        <img src={NikoIcon} alt='Foto Niko Schweres brandit.' />
         <div className='profileTitle'>Niko Schweres</div>
         <div className='profileDescription'>
         Bacon ipsum dolor amet pancetta prosciutto filet mignon, sausage pork belly 
