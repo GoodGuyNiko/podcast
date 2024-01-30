@@ -16,7 +16,7 @@ function HeroSection() {
         <Button className='btns' buttonStyle='btn--outline' buttonSize='btn--large'>
             ABOUT
         </Button>
-        <Link to='https://open.spotify.com/show/3JYc6CejghMVvFXCrzZne8' target="_blank" rel="noopener noreferrer"><Button className='btns' buttonStyle='btn--primary' buttonSize='btn--large'>
+        <Link to='https://open.spotify.com/show/3JYc6CejghMVvFXCrzZne8' target="_blank" rel="noopener noreferrer"><Button className='btns' buttonStyle='btn--outline' buttonSize='btn--large'>
          SPOTIFY 
         </Button></Link>
         </div>
