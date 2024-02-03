@@ -13,7 +13,7 @@ const About =() => {
       <AboutData
       className="firstAbout"
       heading="Brand it!"
-      text="Bei brandit. - dem Branding Video Podcast, sprechen wir wöchentlich über ein neues Thema, wie beispielsweise die Kraft von Storytelling, 
+      text="Bei brandit. - dem Branding Video Podcast, sprechen wir jeden Montag um 10:00 Uhr über ein neues Thema, wie beispielsweise die Kraft von Storytelling, 
         die Macht eines einprägsamen Logos oder die Geheimnisse erfolgreicher Marketingkampagnen – alles aus der Welt des Brandings."
       text2="Dabei geht es nicht nur um theoretisches Wissen, sondern auch um praxiserprobte Strategien, inspirierende Geschichten und bewährte Methoden, die am Ende den Unterschied 
         zwischen einer durchschnittlichen und einer herausragenden Brand ausmachen."
