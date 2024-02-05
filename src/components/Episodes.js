@@ -14,12 +14,10 @@ function Episodes() {
       <EpisodesData
       image={branditEpisode1}
       heading="Wie finde ich den richtigen Namen für mein Brand?"
-      text= "Ein gut gewählter Name ist mehr als eine Bezeichnung; 
-      er ist das repräsentative Aushängeschild der Marke.
-      Im Podcast erklären wir, worauf es bei der Namenswahl ankommt: 
-      Einzigartigkeit, Einfachheit und klare Verbindung zum Produkt."
+      text= "Ein gut gewählter Name ist mehr als eine Bezeichnung; er ist das repräsentative Aushängeschild der Marke. Im Podcast erklären wir, worauf es bei der Namenswahl ankommt: Einzigartigkeit, Einfachheit und klare Verbindung zum Produkt."
+      button= "More"
       />
-            <EpisodesData
+      <EpisodesData
       image={branditEpisode2}
       heading="Episode 2"
       text= "In Episode 2..."
