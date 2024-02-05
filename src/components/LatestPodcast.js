@@ -1,9 +1,10 @@
 import React from 'react'
+import '../styles/LatestPodcast.css'
 
 function LatestPodcast() {
   return (
-    <div>
-      <h2>Aktuelle Folge</h2>
+    <div className='videoContainer'>
+      <h2 className='headline'>Aktuelle Folge</h2>
       <div className='videoWrapper'>
         <iframe width="560" height="315" 
         src="https://www.youtube.com/embed/0AXconl1jSE?si=iK6MWhM7NPDDttrJ" 

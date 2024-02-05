@@ -1,0 +1,25 @@
+.videoContainer {
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 10%;
+    padding-top: 5%;
+}
+
+.headline {
+    padding-bottom: 2%;
+    font-weight: 600;
+}
+
+.videoWrapper {
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+}
+
+.videoWrapper iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
