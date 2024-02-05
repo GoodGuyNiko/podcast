@@ -64,6 +64,12 @@
         margin-top: 2.5rem;
     }
 
+    .firstAboutReverse {
+        display: flex;
+        flex-direction: column-reverse;
+        margin-top: 2.5rem;
+    }
+
     .textAbout {
         width: 100%;
     }
