@@ -16,7 +16,7 @@ const UserProfileCard = () => {
         ribeye tongue salami andouille short ribs turducken flank ham hock. 
         Cupim bacon spare ribs andouille, doner kevin landjaeger.
         </div>
-        <div className='profileButton'><a href='mailto:svenja.kircher@greymountains.de'>Contact</a></div>
+        <div className='profileButton'><a href='mailto:svenja.kircher@greymountains.de'>Kontakt</a></div>
       </div>
       <div className='gradiant'></div>
       <div className='profileDown'>
@@ -28,7 +28,7 @@ const UserProfileCard = () => {
         ribeye tongue salami andouille short ribs turducken flank ham hock. 
         Cupim bacon spare ribs andouille, doner kevin landjaeger.
         </div>
-        <div className='profileButton'><a href='mailto:niko.schweres@greymountains.de'>Contact</a></div>
+        <div className='profileButton'><a href='mailto:niko.schweres@greymountains.de'>Kontakt</a></div>
       </div>
     </div>
     
