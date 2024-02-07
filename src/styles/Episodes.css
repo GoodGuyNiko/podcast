@@ -23,13 +23,18 @@
     padding: 1rem .8rem;
 }
 
+.eCard text {
+    padding-bottom: 2%;
+}
+
 .eCard button {
     color: white;
     padding: 8px 22px;
     border-radius: 6px;
+    border-color: transparent;
     background-color: #F15A24;
-    transition: all 0.2s ease;
     text-decoration: none;
+    
 }
 
 .eImage {
