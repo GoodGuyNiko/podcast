@@ -27,6 +27,11 @@
     padding-bottom: 2%;
 }
 
+.eCard p {
+    padding-top: 3%;
+    padding-bottom: 5%;
+}
+
 .eCard button {
     color: white;
     padding: 8px 22px;
