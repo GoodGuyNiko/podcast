@@ -40,13 +40,13 @@ const Footer = () => {
           <p>Der Branding Podcast</p>
         </div>
         <div className='socialMedia'>
-          <a href='https://www.tiktok.com'>
+          <a href='https://www.instagram.com/brandit.podcast/' target="_blank">
             <i className='fa-brands fa-instagram'></i>
           </a>
-          <a href='https://www.tiktok.com'>
+          <a href='https://www.youtube.com/@brandit.podcast' target="_blank">
             <i className='fa-brands fa-youtube'></i>
           </a>
-          <a href='https://www.tiktok.com'>
+          <a href='https://open.spotify.com/show/3JYc6CejghMVvFXCrzZne8?si=1531890553d9411c' target="_blank">
             <i className='fa-brands fa-spotify'></i>
           </a>
           <a href='https://www.tiktok.com'>
@@ -69,14 +69,14 @@ const Footer = () => {
         </div>
         <div>
           <h4>Socials</h4>
-          <a href=''>Instagram</a>
+          <a href='https://www.instagram.com/brandit.podcast/' target="_blank">Instagram</a>
           <a href=''>TikTok</a>
           <a href=''>LinkedIn</a>
         </div>
         <div>
           <h4>Podcast</h4>
-          <a href=''>Spotify</a>
-          <a href=''>Youtube</a>
+          <a href='https://open.spotify.com/show/3JYc6CejghMVvFXCrzZne8?si=1531890553d9411c' target="_blank">Spotify</a>
+          <a href='https://www.youtube.com/@brandit.podcast' target="_blank">Youtube</a>
           <a href=''>X</a>
         </div>
         <div>

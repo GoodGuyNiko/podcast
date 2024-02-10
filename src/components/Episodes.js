@@ -8,7 +8,7 @@ import branditEpisode2 from '../assets/brandit_episode2.png'
 function Episodes() {
   return (
     <div className='episode'>
-    <h1>Podcast Episoden</h1>
+    <h1>brandit. Podcast</h1>
     <p>Übersicht aller unserer Folgen</p>
     <div className='episodeCard'>
       <EpisodesData
