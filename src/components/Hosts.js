@@ -1,11 +1,11 @@
 import React from 'react'
-import UserProfileCard from './UserProfileCard'
+import UserProfile from './UserProfile'
 import '../styles/Hosts.css'
 
 function Hosts() {
   return (
     <div className='upc'>
-      <UserProfileCard />
+      <UserProfile />
     </div>
   )
 }
