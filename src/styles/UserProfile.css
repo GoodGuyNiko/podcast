@@ -61,10 +61,12 @@ a {
 }
 
 .uCard {
-    width: 40%;
+    width: 35%;
+    background-color: #000;
+    color: #fff;
     text-align: center;
     box-shadow: 0 5px 25px 2px rgba(0, 0, 0, 0.11) ;
-    border-radius: 7px;
+    border-radius: 16px;
     cursor: pointer;
     padding: 1rem .8rem;
 }
@@ -80,43 +82,36 @@ a {
 
 .uCard button {
     color: white;
-    padding: 8px 22px;
-    border-radius: 6px;
+    padding: 8px 12px;
+    border-radius: 10px;
     border-color: transparent;
     background-color: #F15A24;
     text-decoration: none;   
 }
 
-.uCard a {
-    color: white;
-    text-decoration: none;
-    font-size: large;
-}
+.uCard i {
+    color: #fff;
+    font-size: 2rem;
+  }
 
-.uCard img {
-	border-radius: 200px;
-	-moz-border-radius: 200px;
-	-webkit-border-radius: 200px;
-}
+  .uCard:hover i {
+    transform: scale(1.3);
+  }
 
 .uImage {
     height: 200px;
     overflow: hidden;
-    border-radius: 7px;
+    border-radius: 50px;
 }
 
 .uImage img {
     width: 100%;
     height: 100%;
-    border-radius: 100px;
+    border-radius: 50px;
     object-fit: contain;
     transition: 0.3s ease-in-out;
     border-radius: 7px;
 }
-
-/* .uImage:hover img {
-    transform: scale(1.3);
-} */
 
 .uCard h4 {
     font-size: 1.3rem;

@@ -16,14 +16,15 @@ function UserProfile() {
       heading="Niko Schweres"
       text= "Ein gut gewählter Name ist mehr als eine Bezeichnung; er ist das repräsentative Aushängeschild der Marke. Im Podcast erklären wir, worauf es bei der Namenswahl ankommt: Einzigartigkeit, Einfachheit und klare Verbindung zum Produkt."
       // button= <a href='/branditfolge1'>Mehr</a>
-      button= <a href='https://www.instagram.com/brandit.podcast/' target="_blank">
+      button= <a href='https://www.instagram.com/nikoschweres/' target="_blank">
       <i className='fa-brands fa-instagram'></i></a>
       />
       <UserProfileCard
       image={Svenja}
       heading="Svenja Schweres"
-      text= "In Episode 2..."
-      button= <a href='/branditfolge2'>Mehr</a>
+      text= "Ein gut gewählter Name ist mehr als eine Bezeichnung; er ist das repräsentative Aushängeschild der Marke. Im Podcast erklären wir, worauf es bei der Namenswahl ankommt: Einzigartigkeit, Einfachheit und klare Verbindung zum Produkt."
+      button=<a href='https://www.instagram.com/svenjakircher/' target="_blank">
+      <i className='fa-brands fa-instagram'></i></a>
       />
     </div>
     </div>
