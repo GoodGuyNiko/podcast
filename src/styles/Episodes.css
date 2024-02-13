@@ -72,6 +72,7 @@
 @media screen and (max-width:850px){
     .episode{
         margin: 4rem 2rem;
+        padding-top: 10%;
     }
     .episodeCard {
         flex-direction: column;

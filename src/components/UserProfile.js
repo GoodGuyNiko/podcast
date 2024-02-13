@@ -14,7 +14,7 @@ function UserProfile() {
       <UserProfileCard
       image={Niko}
       heading="Niko Schweres"
-      text= "Ein gut gewählter Name ist mehr als eine Bezeichnung; er ist das repräsentative Aushängeschild der Marke. Im Podcast erklären wir, worauf es bei der Namenswahl ankommt: Einzigartigkeit, Einfachheit und klare Verbindung zum Produkt."
+      text= "Niko Schweres begann 2006 seine Karriere als Kameramann. Seitdem arbeitete er an mehr als 1000 Reportagen für das deutsche Fernsehen. Im Jahr 2011 wurde er Co-Geschäftsführer bei telefacts.tv. 2023 gründete gemeinsam mit Svenja Schweres zusammen Grey Mountains. Mit ihrer Firma helfen sie Unternehmen auf dem Weg nach oben."
       // button= <a href='/branditfolge1'>Mehr</a>
       button= <a href='https://www.instagram.com/nikoschweres/' target="_blank">
       <i className='fa-brands fa-instagram'></i></a>
@@ -22,7 +22,7 @@ function UserProfile() {
       <UserProfileCard
       image={Svenja}
       heading="Svenja Schweres"
-      text= "Ein gut gewählter Name ist mehr als eine Bezeichnung; er ist das repräsentative Aushängeschild der Marke. Im Podcast erklären wir, worauf es bei der Namenswahl ankommt: Einzigartigkeit, Einfachheit und klare Verbindung zum Produkt."
+      text= "Svenja Schweres ist eine erfahrene Videoproduzentin und Mitgründerin von Grey Mountains Media. Als Branding-Expertin bringt sie umfassende Kenntnisse in die Entwicklung und Vermarktung von Marken ein. Zusätzlich moderiert sie den Branding-Podcast brandit., der Einblicke und Tipps für eine erfolgreiche Markenbildung bietet."
       button=<a href='https://www.instagram.com/svenjakircher/' target="_blank">
       <i className='fa-brands fa-instagram'></i></a>
       />

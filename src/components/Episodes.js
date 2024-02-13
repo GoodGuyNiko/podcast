@@ -20,7 +20,13 @@ function Episodes() {
       <EpisodesData
       image={branditEpisode2}
       heading="Was genau ist eigentlich Branding?"
-      text= "In Episode 2..."
+      text= "In dieser Folge erfahrt ihr, warum die Identität eurer Marke über das Hervorheben von äußeren Merkmalen hinausgeht und welche Schlüsselelemente einen bleibenden Eindruck bei eurer Zielgruppe hinterlassen. Viel Spaß bei der zweiten Folge von brandit.!"
+      button= <a href='/branditfolge2'>Mehr</a>
+      />
+      <EpisodesData
+      image={branditEpisode2}
+      heading="Was genau ist eigentlich Branding?"
+      text= "In dieser Folge erfahrt ihr, warum die Identität eurer Marke über das Hervorheben von äußeren Merkmalen hinausgeht und welche Schlüsselelemente einen bleibenden Eindruck bei eurer Zielgruppe hinterlassen. Viel Spaß bei der zweiten Folge von brandit.!"
       button= <a href='/branditfolge2'>Mehr</a>
       />
     </div>
