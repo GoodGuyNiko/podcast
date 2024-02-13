@@ -39,7 +39,11 @@
     border-color: transparent;
     background-color: #F15A24;
     text-decoration: none;
-    
+}
+
+.eCard a {
+    color: white;
+    text-decoration: none;
 }
 
 .eImage {
