@@ -3,9 +3,9 @@ import Navbar from './components/Navbar';
 import Footer from './components/Footer';
 import Home from './pages/Home';
 import {BrowserRouter as Router, Route, Routes} from 'react-router-dom';
-// import UserProfileCard from './components/UserProfileCard';
 import Episodes from './components/Episodes';
 import Hosts from './components/Hosts'
+import Folge1 from './components/Folgen/Folge1'
 
 
 function App() {
@@ -17,8 +17,8 @@ function App() {
         <Route path="/" element={<Home />} />
         <Route path="/Episoden" element={<Episodes />} />
         <Route path="/Hosts" element={<Hosts />} />
+        <Route path="/brandit-folge-1" element={<Folge1 />} />
       </Routes>
-      {/* <UserProfileCard /> */}
       <Footer />
       </Router>
     </div>

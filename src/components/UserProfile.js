@@ -15,7 +15,6 @@ function UserProfile() {
       image={Niko}
       heading="Niko Schweres"
       text= "Niko Schweres begann 2006 seine Karriere als Kameramann. Seitdem arbeitete er an mehr als 1000 Reportagen für das deutsche Fernsehen. Im Jahr 2011 wurde er Co-Geschäftsführer bei telefacts.tv. 2023 gründete gemeinsam mit Svenja Schweres zusammen Grey Mountains. Mit ihrer Firma helfen sie Unternehmen auf dem Weg nach oben."
-      // button= <a href='/branditfolge1'>Mehr</a>
       button= <a href='https://www.instagram.com/nikoschweres/' target="_blank">
       <i className='fa-brands fa-instagram'></i></a>
       />

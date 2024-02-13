@@ -19,7 +19,7 @@ function Episodes() {
       image={branditEpisode1}
       heading="Der richtige Name für mein Brand"
       text= "Ein gut gewählter Name ist mehr als eine Bezeichnung; er ist das repräsentative Aushängeschild der Marke. Im Podcast erklären wir, worauf es bei der Namenswahl ankommt: Einzigartigkeit, Einfachheit und klare Verbindung zum Produkt. Unsere Mission ist ..."
-      button= <a href='/branditfolge1'>Mehr</a>
+      button= <a href='/brandit-folge-1'>Mehr</a>
       />
       <EpisodesData
       image={branditEpisode2}
