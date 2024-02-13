@@ -5,7 +5,7 @@ import Home from './pages/Home';
 import {BrowserRouter as Router, Route, Routes} from 'react-router-dom';
 import Episodes from './components/Episodes';
 import Hosts from './components/Hosts'
-import Folge1 from './components/Folgen/Folge1'
+import Folge1 from './Folgen/Folge1'
 
 
 function App() {
