@@ -1,49 +1,3 @@
-/* .upc {
-    width: 350px;
-    margin: 4rem 6rem;
-    border-radius: 4px;
-    padding-bottom: 20px;
-    background: white;
-}
-
-.gradiant {
-    background-image: linear-gradient(#c13806,#F15A24);
-    height: 125px;
-    border-radius: 4px 4px 0px 0px;
-}
-
-.profileDown img {
-    height: 150px;
-    border-radius: 100px;
-    margin-top: -25px;
-    padding: 5px;
-    background: white;
-}
-
-.profileTitle {
-    font-size: 36px;
-    font-weight: 600;
-}
-
-.profileDescription {
-    padding: 20px 40px;
-    font-size: 16px;
-}
-
-.profileButton {
-    font-size: 16.px;
-    background: #2b5dff;
-    margin: 10px 100px;
-    padding-top: 8px;
-    padding-bottom: 10px;
-    border-radius: 40px;
-}
-
-a {
-    text-decoration: none;
-    color: white;
-} */
-
 .user {
     margin: 4rem 6rem;
     color: #2a2a2a;
@@ -52,6 +6,7 @@ a {
 
 .user h1 {
     font-size: 3rem;
+    color: #F15A24;
 }
 
 .userCard {
@@ -67,13 +22,13 @@ a {
     text-align: center;
     box-shadow: 0 5px 25px 2px rgba(0, 0, 0, 0.11) ;
     border-radius: 16px;
-    cursor: pointer;
     padding: 1rem .8rem;
 }
 
 .uCard text {
     padding-bottom: 2%;
 }
+
 
 .uCard p {
     padding-top: 3%;
@@ -99,18 +54,21 @@ a {
   }
 
 .uImage {
-    height: 200px;
+    width: 150px;
+    height: 150px;
     overflow: hidden;
-    border-radius: 50px;
+    border-radius: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .uImage img {
     width: 100%;
     height: 100%;
-    border-radius: 50px;
+    border-radius: 100px;
     object-fit: contain;
     transition: 0.3s ease-in-out;
-    border-radius: 7px;
 }
 
 .uCard h4 {
