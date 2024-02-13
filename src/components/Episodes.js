@@ -18,7 +18,7 @@ function Episodes() {
       <EpisodesData
       image={branditEpisode1}
       heading="Der richtige Name für mein Brand"
-      text= "Ein gut gewählter Name ist mehr als eine Bezeichnung; er ist das repräsentative Aushängeschild der Marke. Im Podcast erklären wir, worauf es bei der Namenswahl ankommt: Einzigartigkeit, Einfachheit und klare Verbindung zum Produkt."
+      text= "Ein gut gewählter Name ist mehr als eine Bezeichnung; er ist das repräsentative Aushängeschild der Marke. Im Podcast erklären wir, worauf es bei der Namenswahl ankommt: Einzigartigkeit, Einfachheit und klare Verbindung zum Produkt. Unsere Mission ist ..."
       button= <a href='/branditfolge1'>Mehr</a>
       />
       <EpisodesData
@@ -30,7 +30,7 @@ function Episodes() {
       <EpisodesData
       image={branditEpisode3}
       heading="Brand Building durch Videopodcast"
-      text= "In dieser Folge erfahrt ihr, warum die Identität eurer Marke über das Hervorheben von äußeren Merkmalen hinausgeht und welche Schlüsselelemente einen bleibenden Eindruck bei eurer Zielgruppe hinterlassen. Viel Spaß bei der zweiten Folge von brandit.!"
+      text= "In dieser Folge sprechen wir darüber, wie du durch Videopodcasts dein Brand Building vorantreiben kannst. Videopodcasts bieten ein unglaubliches Potenzial, wenn es darum geht, deine Marke zu stärken. Mit deinen Assets wie Persönlichkeit schaffst ..."
       button= <a href='/branditfolge2'>Mehr</a>
       />      
     </div>
@@ -43,8 +43,8 @@ function Episodes() {
       />
       <EpisodesData
       image={branditEpisode5}
-      heading="Was genau ist eigentlich Branding?"
-      text= "In dieser Folge erfahrt ihr, warum die Identität eurer Marke über das Hervorheben von äußeren Merkmalen hinausgeht und welche Schlüsselelemente einen bleibenden Eindruck bei eurer Zielgruppe hinterlassen. Viel Spaß bei der zweiten Folge von brandit.!"
+      heading="Die Farbpsychologie im Branding"
+      text= "Farben können Emotionen, Assoziationen und sogar Verhaltensweisen beeinflussen. Orange und Rot, die oft in Baumärkten zu finden sind, können eine dynamische Atmosphäre schaffen, die mit Aktivität und Kreativität in Verbindung gebracht wird. Doch warum?"
       button= <a href='/branditfolge2'>Mehr</a>
       />
       <EpisodesData
