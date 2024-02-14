@@ -4,15 +4,22 @@
 
 .logoHeader img {
     width: 80%;
+    margin-bottom: 5%;
+}
+
+.subHead {
+    margin-bottom: 2%;
 }
 
 .subText {
     margin-left: 10%;
     margin-right: 10%;
+    margin-bottom: 5%;
 }
 
 .folgenLinks i {
     color: #F15A24;
     font-size: 8rem;
     margin-left: 1rem;
+    margin-bottom: 2%;
 }
