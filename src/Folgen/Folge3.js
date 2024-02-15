@@ -34,6 +34,8 @@ function Folge3() {
     <br />
     <br />
     Wie man das Ganze Schritt für Schritt angeht? Das erklären wir dir in der neuen Folge von brandit. – dem Branding Podcast.(Svenja Schweres)
+    <br />
+    <em>brandit.</em> – Der Brandingpodcast produziert von <a className='greyMountains' href='https://www.greymountains.de' target="_blank"><strong>Grey Mountains Media</strong></a>.
     </p>
     <button className='backEpisode'><a href='/episoden'>Zurück zur Übersicht</a></button>
   </div>

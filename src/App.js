@@ -9,8 +9,8 @@ import Folge1 from './Folgen/Folge1'
 import Folge2 from './Folgen/Folge2';
 import Folge3 from './Folgen/Folge3';
 import Folge4 from './Folgen/Folge4';
-// import Folge3 from './Folgen/Folge5';
-// import Folge3 from './Folgen/Folge6';
+import Folge5 from './Folgen/Folge5';
+import Folge6 from './Folgen/Folge6';
 
 
 function App() {
@@ -26,6 +26,8 @@ function App() {
         <Route path="/brandit-folge-2" element={<Folge2 />} />
         <Route path="/brandit-folge-3" element={<Folge3 />} />
         <Route path="/brandit-folge-4" element={<Folge4 />} />
+        <Route path="/brandit-folge-5" element={<Folge5 />} />
+        <Route path="/brandit-folge-6" element={<Folge6 />} />
       </Routes>
       <Footer />
       </Router>

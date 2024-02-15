@@ -27,6 +27,7 @@ function Folge1() {
       Wir geben auch praxisnahe Tipps zur Sicherung eurer Online-Präsenz. Die Wahl eines Namens ist der erste Schritt; die passende Domain zu sichern, gehört ebenso auf eure Prioritätenliste. In unserer Podcast-Folge teilen wir bewährte Methoden, wie ihr sicherstellt, dass euer Name auch als Domain verfügbar ist.
       Die erste Folge von brandit. ist nicht nur informativ, sondern auch interaktiv. Niko wird vor die Herausforderung gestellt, Markennamen wie "Kodak" und "IBM" in Kategorien einzuordnen. Wir diskutieren beschreibende Namen, erfundene Namen und solche, die nach Gründern benannt sind.
       Abschließend lässt sich sagen: Die Wahl eines Namens ist nicht nur kreativ, sondern auch ein strategischer Schachzug, der eure Marke formt. Es gibt keine einheitliche Lösung, aber Leitlinien, denen zu folgen sich lohnt. 
+      <em>brandit.</em> – Der Brandingpodcast produziert von <a className='greyMountains' href='https://www.greymountains.de' target="_blank"><strong>Grey Mountains Media</strong></a>.
     </p>
     <button className='backEpisode'><a href='/episoden'>Zurück zur Übersicht</a></button>
   </div>

@@ -31,6 +31,7 @@ function Folge2() {
     <br/>
     Begleitet uns auf dieser spannenden Reise durch die Welt des Brandings und lasst uns gemeinsam entdecken, wie ihr eure Marke nicht nur sichtbar, sondern auch unverwechselbar macht. Denn Branding ist Kunst und Strategie in einem und hilft euch dabei, eure Marke zu formen und langfristig erfolgreich zu machen. Viel Spaß bei der zweiten Folge von brandit.!
     <br/>
+    <em>brandit.</em> – Der Brandingpodcast produziert von <a className='greyMountains' href='https://www.greymountains.de' target="_blank"><strong>Grey Mountains Media</strong></a>.
     </p>
     <button className='backEpisode'><a href='/episoden'>Zurück zur Übersicht</a></button>
   </div>
