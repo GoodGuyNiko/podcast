@@ -9,6 +9,7 @@
 
 .subHead {
     margin-bottom: 2%;
+    font-weight: 300;
 }
 
 .subText {
@@ -19,7 +20,22 @@
 
 .folgenLinks i {
     color: #F15A24;
-    font-size: 8rem;
-    margin-left: 1rem;
+    font-size: 6rem;
+    margin-left: 3rem;
     margin-bottom: 2%;
+}
+
+@media screen and (max-width:850px){
+    .elementFolgen{
+        margin: 4rem 2rem;
+        padding-top: 10%;
+    }
+    /* .episodeCard {
+        flex-direction: column;
+    }
+
+    .eCard {
+        width: 100%;
+        margin-bottom: 1.5rem;
+    } */
 }
