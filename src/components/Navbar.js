@@ -54,7 +54,7 @@ class Navbar extends Component {
     <div>
       <nav className='navbarItems'>
        {/* <Link className='navbarLogo' to="/"><img src={Logo} alt="brandit. Logo Orange"  /></Link> */}
-        <h1 className='navbarLogo'>brandit.</h1>
+        <h1 className='navbarLogo'><a href='/'>brandit.</a></h1>
         <div className='menuIcons' onClick= {this.handleClick}>
           <i className={this.state.clicked ? 'fas fa-times' : 'fas fa-bars' }></i>
         </div>
