@@ -1,5 +1,5 @@
 import React from 'react'
-import branditEpisode1 from '../assets/brandit_folge1.png'
+import branditEpisode1 from '../assets/brandit_banner_folge1.jpg'
 import '../styles/PodcastFolgen.css'
 
 function Folge1() {
