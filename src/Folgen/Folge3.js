@@ -1,36 +1,43 @@
 import React from 'react'
-import branditEpisode1 from '../assets/brandit_banner_folge1.jpg'
+import branditEpisode1 from '../assets/brandit_banner_folge3.jpg'
 import '../styles/PodcastFolgen.css'
 
-function Folge1() {
+function Folge3() {
   return (
   <div className='elementFolgen'>
     <div className='logoHeader'>
     <img src={branditEpisode1} /></div>
-    <h1 className='folgenHead'>Wie finde ich den richtigen Namen für mein Brand?</h1>
-    <p className='subHead'><em>brandit. Folge 1</em></p>
+    <h1 className='folgenHead'>Brand Building durch Videopodcast</h1>
+    <p className='subHead'><em>brandit. Folge 3</em></p>
     <div className='folgenLinks'>
-    <a href='https://open.spotify.com/episode/3gfNQpeHbH2f3TTMAWEpIv?si=42edb3df6a054665' target="_blank">
+    <a href='https://open.spotify.com/episode/6NW3FI79WrMFT6bkkGSuzK?si=705710941f1f44fe' target="_blank">
       <i className='fa-brands fa-spotify'></i>
     </a>
-    <a href='https://podcasts.apple.com/de/podcast/brandit/id1724738282?i=1000640900479' target="_blank">
+    <a href='https://podcasts.apple.com/de/podcast/brandit/id1724738282?i=1000642474121' target="_blank">
       <i class="fab fa-itunes"></i>
     </a>
-    <a href='https://youtu.be/MA9swnI6INg' target="_blank">
+    <a href='https://www.youtube.com/watch?v=5Oz-THGklTc' target="_blank">
       <i className='fa-brands fa-youtube'></i>
     </a>
     </div>  
-    <p className='subText'>Marken- und Produktnamen sind nicht nur Wörter, sondern entscheidende Identitätsmarker im Branding. In unserer ersten Episode tauchen wir tief in dieses Thema ein, teilen eigene Fehler und wertvolle Erkenntnisse. Vor etwa 6 Jahren beispielsweise starteten wir eine vegane Kochshow namens "Team Ninja" auf YouTube. Ein Name, der aus der Fusion unserer Namen Svenja und Niko entstand. Leider existierte bereits eine Fortnite-Fangruppe mit dem gleichen Namen. Uppsi... Heute würden wir anders vorgehen bei der Namensfindung. In der ersten brandit. -Folge geben wir daher nicht nur unsere Tipps zur Namensfindung, sondern erklären euch auch, wie ihr unsere Fehler vermeiden könnt und euer Unternehmen mit einem einprägsamen Namen stärkt.
-      Ein gut gewählter Name ist viel mehr als eine Bezeichnung; er ist ein Aushängeschild eurer Marke. Bei der Namensfindung ist daher sowohl Kreativität gefragt als auch klare und logische Überlegungen. Wir erläutern, worauf es ankommt, und teilen Tipps, um Stolpersteine zu umgehen. Einzigartigkeit ist im Branding beispielsweise entscheidend – der Name sollte nicht nur zum Unternehmen passen, sondern auch sicherstellen, dass keine Verwechslungen auftreten. Einfachheit ist ebenso wichtig; ein leicht aussprechbarer Name erleichtert Mundpropaganda und digitale Auffindbarkeit.
-      Unsere Mission ist es, euch bei der Umsetzung eurer Ziele zu unterstützen und dafür unser Expertenwissen in Branding und Marketing zu teilen. Wir denken an alles, auch an oft übersehene Aspekte bei der Namensgebung von international vermarkteten Produkten.
-      Ein Beispiel, worüber wir in der ersten Folge diskutieren, ist der Chevrolet Nova, dessen Name sich auf dem spanischen Markt als unglücklich erwies. "No va" bedeutet auf Spanisch "geht nicht", was offensichtlich nicht die beste Botschaft für ein Auto ist. Unser Rat: Achtet darauf, dass der Name keine negativen Assoziationen in anderen Sprachen hervorruft.
-      Wir geben auch praxisnahe Tipps zur Sicherung eurer Online-Präsenz. Die Wahl eines Namens ist der erste Schritt; die passende Domain zu sichern, gehört ebenso auf eure Prioritätenliste. In unserer Podcast-Folge teilen wir bewährte Methoden, wie ihr sicherstellt, dass euer Name auch als Domain verfügbar ist.
-      Die erste Folge von brandit. ist nicht nur informativ, sondern auch interaktiv. Niko wird vor die Herausforderung gestellt, Markennamen wie "Kodak" und "IBM" in Kategorien einzuordnen. Wir diskutieren beschreibende Namen, erfundene Namen und solche, die nach Gründern benannt sind.
-      Abschließend lässt sich sagen: Die Wahl eines Namens ist nicht nur kreativ, sondern auch ein strategischer Schachzug, der eure Marke formt. Es gibt keine einheitliche Lösung, aber Leitlinien, denen zu folgen sich lohnt. 
+    <p className='subText'>
+    „Brief von svenja“
+    <br />
+    <br />
+    Herzlich willkommen zur dritten Folge von brandit.!
+    <br />
+    <br />
+    In dieser Folge sprechen wir darüber, wie Brand Building durch Videopodcasts funktioniert und was dabei zu beachten ist. Ich persönlich liebe Podcasts. Ich höre sie, wenn ich draußen spazieren gehe, beim Sport bin oder mich um den Abwasch kümmere. Am liebsten höre ich dabei Infotainment-Podcasts. Ich liebe es, mich weiterzubilden und neue Dinge zu lernen, und das gelingt mir besonders gut mit Podcasts. Ich informiere mich über die richtige Ernährung, die Vorteile von Coldplunging, sogar Fußballpodcasts höre ich mir an, damit ich vor meinem Mann mit meinem Bundesliga-Wissen angeben kann. Das macht mir unglaublich viel Spaß. So wird aus der Zeit, in der ich die Wäsche falte und wegräume, direkt eine richtige Lernstunde.
+    <br /> 
+    <br /> 
+    Und viele Menschen ticken genauso wie ich. Also, warum nicht dieses Interesse nutzen, um die eigene Marke zu stärken? Du hast ein Finanzberatungsunternehmen und möchtest dich besser vermarkten? Dann ist es eine großartige Idee, dein Wissen zu teilen. So positionierst du dich als Experte, und die Menschen lernen dich kennen. Deine Persönlichkeit, deine Tonlage, dein Humor – das sind Alleinstellungsmerkmale, die dich und dein Unternehmen einzigartig machen. Du kommst zwar aus der Finanzbranche, identifizierst dich aber überhaupt nicht mit dem staubigen Image, das damit einhergeht. Du bist jung und lustig und liebst deinen Job, weil du für das Thema brennst? Dann nutze deine Persönlichkeit, um die Außendarstellung deiner Marke zu prägen.
+    <br />
+    <br />
+    Wie man das Ganze Schritt für Schritt angeht? Das erklären wir dir in der neuen Folge von brandit. – dem Branding Podcast.(Svenja Schweres)
     </p>
     <button className='backEpisode'><a href='/episoden'>Zurück zur Übersicht</a></button>
   </div>
   )
 }
 
-export default Folge1
+export default Folge3

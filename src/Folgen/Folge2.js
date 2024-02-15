@@ -10,13 +10,13 @@ function Folge2() {
     <h1 className='folgenHead'>Wie finde ich den richtigen Namen für mein Brand?</h1>
     <p className='subHead'><em>brandit. Folge 2</em></p>
     <div className='folgenLinks'>
-    <a href='https://open.spotify.com/episode/3gfNQpeHbH2f3TTMAWEpIv?si=42edb3df6a054665' target="_blank">
+    <a href='https://open.spotify.com/episode/3gfNQpeHbH2f3TTMAWEpIv?si=a16d9bcf8b1a4e26' target="_blank">
       <i className='fa-brands fa-spotify'></i>
     </a>
     <a href='https://podcasts.apple.com/de/podcast/brandit/id1724738282?i=1000640900479' target="_blank">
       <i class="fab fa-itunes"></i>
     </a>
-    <a href='https://youtu.be/MA9swnI6INg' target="_blank">
+    <a href='https://youtu.be/ALAAXWHKC_4' target="_blank">
       <i className='fa-brands fa-youtube'></i>
     </a>
     </div>  
