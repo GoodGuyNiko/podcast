@@ -3,7 +3,7 @@
 }
 
 .logoHeader img {
-    width: 80%;
+    width: 90%;
     margin-bottom: 5%;
 }
 
@@ -16,6 +16,8 @@
     margin-left: 10%;
     margin-right: 10%;
     margin-bottom: 5%;
+    hyphens: auto; 
+	text-align: justify
 }
 
 .folgenLinks i {
@@ -23,6 +25,7 @@
     font-size: 6rem;
     margin-left: 3rem;
     margin-bottom: 2%;
+    padding-right: 2rem;
 }
 
 @media screen and (max-width:850px){
@@ -30,12 +33,11 @@
         margin: 4rem 2rem;
         padding-top: 10%;
     }
-    /* .episodeCard {
-        flex-direction: column;
-    }
 
-    .eCard {
-        width: 100%;
-        margin-bottom: 1.5rem;
-    } */
+    .folgenLinks i {
+        font-size: 3rem;
+        align-items: center;
+        margin-top: 2rem;
+        margin-bottom: 2rem;
+    }
 }
