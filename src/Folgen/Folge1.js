@@ -28,6 +28,7 @@ function Folge1() {
       Die erste Folge von brandit. ist nicht nur informativ, sondern auch interaktiv. Niko wird vor die Herausforderung gestellt, Markennamen wie "Kodak" und "IBM" in Kategorien einzuordnen. Wir diskutieren beschreibende Namen, erfundene Namen und solche, die nach Gründern benannt sind.
       Abschließend lässt sich sagen: Die Wahl eines Namens ist nicht nur kreativ, sondern auch ein strategischer Schachzug, der eure Marke formt. Es gibt keine einheitliche Lösung, aber Leitlinien, denen zu folgen sich lohnt. 
     </p>
+    <button className='backEpisode'><a href='/episoden'>Zurück zur Übersicht</a></button>
   </div>
   )
 }

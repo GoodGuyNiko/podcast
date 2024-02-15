@@ -8,9 +8,11 @@ function EpisodesData(props) {
       <div className='eImage'>
         <img src={props.image} alt='' />
       </div>
+      <div>
       <h4>{props.heading}</h4>
+      </div>
       <p>{props.text}</p>
-      <button>{props.button}</button>
+      <div className='btnCard'><button>{props.button}</button></div>
     </div>
   )
 }

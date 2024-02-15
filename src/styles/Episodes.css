@@ -21,6 +21,9 @@
     border-radius: 7px;
     cursor: pointer;
     padding: 1rem .8rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
 }
 
 .eCard text {
@@ -30,6 +33,8 @@
 .eCard p {
     padding-top: 3%;
     padding-bottom: 5%;
+    hyphens: auto; 
+	text-align: justify;
 }
 
 .eCard button {
@@ -39,6 +44,7 @@
     border-color: transparent;
     background-color: #F15A24;
     text-decoration: none;
+    
 }
 
 .eCard a {
@@ -67,6 +73,12 @@
 .eCard h4 {
     font-size: 1.3rem;
     padding: .9rem 0 .2rem 0;
+}
+
+.btnCard {
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
 }
 
 @media screen and (max-width:850px){

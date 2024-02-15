@@ -28,6 +28,21 @@
     padding-right: 2rem;
 }
 
+.backEpisode {
+    color: white;
+    padding: 8px 22px;
+    border-radius: 6px;
+    border-color: transparent;
+    background-color: #F15A24;
+    text-decoration: none;
+    margin-bottom: 2%;
+}
+
+.backEpisode a {
+    color: white;
+    text-decoration: none;
+}
+
 @media screen and (max-width:850px){
     .elementFolgen{
         margin: 4rem 2rem;

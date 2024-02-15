@@ -6,6 +6,7 @@ import {BrowserRouter as Router, Route, Routes} from 'react-router-dom';
 import Episodes from './components/Episodes';
 import Hosts from './components/Hosts'
 import Folge1 from './Folgen/Folge1'
+import Folge2 from './Folgen/Folge2';
 
 
 function App() {
@@ -18,6 +19,7 @@ function App() {
         <Route path="/Episoden" element={<Episodes />} />
         <Route path="/Hosts" element={<Hosts />} />
         <Route path="/brandit-folge-1" element={<Folge1 />} />
+        <Route path="/brandit-folge-2" element={<Folge2 />} />
       </Routes>
       <Footer />
       </Router>

@@ -25,13 +25,13 @@ function Episodes() {
       image={branditEpisode2}
       heading="Was genau ist eigentlich Branding?"
       text= "In dieser Folge erfahrt ihr, warum die Identität eurer Marke über das Hervorheben von äußeren Merkmalen hinausgeht und welche Schlüsselelemente einen bleibenden Eindruck bei eurer Zielgruppe hinterlassen. Viel Spaß bei der zweiten Folge von brandit.!"
-      button= <a href='/branditfolge2'>Mehr</a>
+      button= <a href='/brandit-folge-2'>Mehr</a>
       />
       <EpisodesData
       image={branditEpisode3}
       heading="Brand Building durch Videopodcast"
       text= "In dieser Folge sprechen wir darüber, wie du durch Videopodcasts dein Brand Building vorantreiben kannst. Videopodcasts bieten ein unglaubliches Potenzial, wenn es darum geht, deine Marke zu stärken. Mit deinen Assets wie Persönlichkeit schaffst ..."
-      button= <a href='/branditfolge2'>Mehr</a>
+      button= <a href='/brandit-folge-3'>Mehr</a>
       />      
     </div>
     <div className='episodeCard'>
@@ -39,19 +39,19 @@ function Episodes() {
       image={branditEpisode4}
       heading="Die Marketingstrategie von Red Bull"
       text= "In dieser Folge von brandit. nehmen wir uns ein aufschlussreiches Fallbeispiel vor: Wie man die Markenidentität betont, ohne das Produkt aggressiv zu bewerben. Ein Musterbeispiel hierfür ist Red Bull, dessen Instagram-Feed ganz ohne die übliche Dose auskommt."
-      button= <a href='/branditfolge1'>Mehr</a>
+      button= <a href='/brandit-folge-4'>Mehr</a>
       />
       <EpisodesData
       image={branditEpisode5}
       heading="Die Farbpsychologie im Branding"
       text= "Farben können Emotionen, Assoziationen und sogar Verhaltensweisen beeinflussen. Orange und Rot, die oft in Baumärkten zu finden sind, können eine dynamische Atmosphäre schaffen, die mit Aktivität und Kreativität in Verbindung gebracht wird. Doch warum?"
-      button= <a href='/branditfolge2'>Mehr</a>
+      button= <a href='/brandit-folge-5'>Mehr</a>
       />
       <EpisodesData
       image={branditEpisode6}
-      heading="Was genau ist eigentlich Branding?"
-      text= "In dieser Folge erfahrt ihr, warum die Identität eurer Marke über das Hervorheben von äußeren Merkmalen hinausgeht und welche Schlüsselelemente einen bleibenden Eindruck bei eurer Zielgruppe hinterlassen. Viel Spaß bei der zweiten Folge von brandit.!"
-      button= <a href='/branditfolge2'>Mehr</a>
+      heading="Wann lohnt sich ein Rebranding?  "
+      text= "Wir geben euch nicht nur alle Informationen, die ihr benötigt, um selbst abzuschätzen, ob sich ein Rebranding für euch lohnt. Wir teilen auch effektive Tipps und Tricks, wie ihr das Ganze angehen solltet, und besprechen in dieser Folge von brandit. ..."
+      button= <a href='/brandit-folge-6'>Mehr</a>
       />      
     </div>
     </div>
