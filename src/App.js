@@ -11,6 +11,7 @@ import Folge3 from './Folgen/Folge3';
 import Folge4 from './Folgen/Folge4';
 import Folge5 from './Folgen/Folge5';
 import Folge6 from './Folgen/Folge6';
+import UeberUns from './components/UeberUns';
 
 
 function App() {
@@ -28,6 +29,7 @@ function App() {
         <Route path="/brandit-folge-4" element={<Folge4 />} />
         <Route path="/brandit-folge-5" element={<Folge5 />} />
         <Route path="/brandit-folge-6" element={<Folge6 />} />
+        <Route path="/ueber" element={<UeberUns />} />
       </Routes>
       <Footer />
       </Router>
