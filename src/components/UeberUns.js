@@ -1,29 +1,32 @@
 import React from 'react'
 import '../styles/UeberUns.css'
+import branditBanner from '../assets/brandit_banner_about.jpg'
 
 function UeberUns() {
   return (
     <div className='ueberContainer'>
-      <h1>Was ist brandit.?</h1>
+    <div className='logoHeader'>
+    <img src={branditBanner} /></div>
+      <h1>brandit. und sonst?</h1>
       <div className='aboutContainer'>
-            <p> Es gibt einen Grund, warum manche Marken im Gedächtnis bleiben, während andere in der Masse untergehen. Und dieser Grund lautet Branding. Branding ist weit mehr als nur ein Logo oder ein schickes Design – es ist die Seele einer Marke, die Geschichte, die sie erzählt, und die Verbindung, die sie zu ihrer Zielgruppe aufbaut
-                <br />
-                <br />
-                Bei brandit. - dem Branding Podcast, sprechen wir wöchentlich über ein neues Thema, wie beispielsweise die Kraft von Storytelling, die Macht eines einprägsamen Logos oder die Geheimnisse erfolgreicher Marketingkampagnen – alles aus der Welt des Brandings. Dabei geht es nicht nur um theoretisches Wissen, sondern auch um praxiserprobte Strategien, inspirierende Geschichten und bewährte Methoden, die am Ende den Unterschied zwischen einer durchschnittlichen und einer herausragenden Brand ausmachen. 
-                <br />
-                <br />
-                Hinter den Mikrofonen stehen Svenja Schweres und Niko Schweres, wir sind die kreativen Köpfe und Gründer von Grey Mountains Media. Unser Job: Unternehmen dabei zu unterstützen, ihre Ziele zu erreichen. Branding und Marketing spielen dabei eine große Rolle, und über die letzten Jahre haben wir nicht nur Erfahrungen gesammelt, sondern uns auch einiges an Expertenwissen angeeignet, das wir nun mit interessierten Hörern teilen möchten. 
-                <br />
-                <br />
-                Branding ist für uns nicht nur ein Konzept, sondern ein umfassender Prozess, der Marken zum Leben erweckt. Von der Entwicklung einer einzigartigen Markenpersönlichkeit bis hin zur wirksamen Umsetzung von Marketingstrategien besprechen wir jeden Aspekt bis ins Detail. 
-                <br />
-                <br />
-                Unser Podcast ist dabei mehr als nur eine Informationsquelle – er ist ein Leitfaden für alle, die ihre Marke auf ein neues Level heben wollen. Hier findet ihr nicht nur Expertenmeinungen und Brancheninsider-Tipps, sondern auch authentische Einblicke in unsere eigenen Erfahrungen. 
-                <br />
-                <br />
-                Lasst euch inspirieren von unseren Geschichten, tiefgehenden Analysen und praxiserprobten Ratschlägen. Willkommen bei brandit. - dem Podcast, der Branding lebendig macht.
-            </p>
+      <p>
+        Hi, dürfen wir uns vorstellen? Wir sind Svenja und Niko, die beiden hinter den Mikrofonen von brandit. Wir sind jedoch nicht nur Podcast-Hosts, sondern auch noch Geschäftspartner und ein Ehepaar. Gemeinsam ergänzen wir uns in allen Bereichen unseres Lebens und sind daher das perfekte Team. Aber lasst uns mal ein Stück zurückgehen, denn das war ja nicht immer so.
+
+        Kennengelernt haben wir uns 2016. Damals hatte Svenja noch den Plan, etwas im Bereich Wirtschaft zu machen, während Niko tagtäglich als Kameramann Reportagen für das deutsche Fernsehen produzierte. Schon in der ersten Phase unserer Beziehung gestalteten wir gemeinsam kleine Passion-Projects. Im Laufe unserer Beziehung arbeiteten wir an vielen unterschiedlichen kreativen Projekten, sei es beruflich oder privat. Wir gestalteten zum Beispiel eine NFT-Kunstkollektion, produzierten Kochvideos für YouTube, nahmen Produktvideos im Wohnzimmer auf und schrieben ein Kochbuch. Wir genossen es, unsere gemeinsame Zeit mit kreativen Projekten zu gestalten. Und von Projekt zu Projekt wurden wir immer professioneller und mutiger.
+
+        Wir belegten Kurse zum Thema Branding und lasen unendlich viele Bücher zu dem Thema. Wir erprobten unsere erlernten Fähigkeiten an unseren eigenen Projekten, gestalteten Logos, erschufen Corporate Designs und überlegten uns Content-Strategien. Das gemeinsame Arbeiten an Projekten in unserer Freizeit funktionierte super, und wir entschieden uns, dass wir auch in echt gerne zusammenarbeiten würden.
+
+        Also stieg Svenja erstmal als redaktionelle Assistenz bei Nikos Firma ein und erlernte alles rund ums Produzieren von TV-Berichten. Zusammenarbeiten machte Spaß, doch wir beide wollten mehr. Wir wollten die Fähigkeiten, die wir in den letzten Jahren gelernt und verinnerlicht hatten, miteinander kombinieren, um Videocontent gezielt einzusetzen, um Unternehmen so zu branden, dass sie ihre Ziele erreichen können. Das sollte es sein. Also gründeten wir unsere eigene Firma mit unseren eigenen Werten und unserer eigenen Vision und Mission. Grey Mountains Media entstand.
+
+        Wir wurden als neugegründete Firma unter anderem damit beauftragt, einen Videopodcast im True Crime-Segment zu produzieren. Wir übernahmen die Produktion, den Schnitt und das gesamte Social-Media-Marketing. Die Arbeit an dem Projekt machte unglaublich Spaß, und wir stellten uns die Frage, was für eine Art Podcast wir für unsere Firma produzieren könnten. brandit. - der Branding-Podcast, entstand. 
+
+
+        Die Vision hinter brandit. ist klar: Gemeinsam möchten wir unseren Zuhörern dabei helfen, ihre Branding-Ziele zu erreichen. Gatekeeping war gestern – wir wollen unser Wissen über Branding mit allen teilen, die Interesse daran haben, sich weiterzuentwickeln und ihre Marken zu stärken.
+        Zusätzlich schaffen wir Vertrauen zu unseren zukünftigen Kunden, indem wir unsere Expertise vermitteln, und wir haben ein neues Passion Project, das wir mit unserem geballten Know-how angehen können.
+
+      </p>
        </div>
+       {/* <div className='secondPart'>
        <div className='aboutQuestions'>
             <p>
                 <strong>Wer steckt hinter <em>brandit.</em>?</strong>
@@ -50,6 +53,7 @@ function UeberUns() {
                 <em>brandit.</em> behandelt eine Vielzahl von Themen rund um Branding, die darauf abzielen, unseren Zuhörern ein umfassendes Verständnis und praktische Anleitungen zu bieten. Dazu gehören beispielsweise die Farbpsychologie im Branding, die Analyse erfolgreicher Branding-Strategien anhand von Fallbeispielen. Wir zeigen auf, wie Unternehmen durch die Nutzung von Videopodcasts ihre Markenbekanntheit steigern und eine engagierte Community aufbauen können. Zudem geben wir praktische Tipps und Best Practices für Brands, die eine Neupositionierung ihrer Marke in Betracht ziehen und erklären grundlegende Fragen wie "Was ist eigentlich Branding?" und "Wie wählt man den richtigen Brandnamen?"
             </p>
        </div>
+       </div> */}
     </div>
   )
 }

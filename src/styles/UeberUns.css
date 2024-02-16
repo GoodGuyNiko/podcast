@@ -1,6 +1,25 @@
 .ueberContainer {
     margin-top: 10%;
-    margin-left: 15%;
-    margin-right: 15%;
 }
 
+.aboutContainer {
+    margin-right: 15%;
+    margin-left: 15%;
+    hyphens: auto; 
+	text-align: justify
+}
+
+.aboutQuestions {
+    margin-right: 15%;
+    margin-left: 15%;
+    hyphens: auto; 
+	text-align: justify
+}
+
+.secondPart {
+    background-color: #F15A24;
+}
+
+.secondPart p {
+    color: white;
+}
