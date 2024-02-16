@@ -21,10 +21,6 @@
     font-size: larger;
 }
 
-.hiOrange {
-    color: #F15A24;
-}
-
 .user h1 {
     font-size: 3rem;
     color: #F15A24;
@@ -35,6 +31,11 @@
     display: flex;
     justify-content: space-between;
 
+}
+
+.gMHosts {
+    color: #F15A24;
+    text-decoration: none;
 }
 
 .uCard {

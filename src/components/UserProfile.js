@@ -15,7 +15,7 @@ function UserProfile() {
     <p className='secondHeadline'>Wer steckt hinter brandit. dem Branding Podcast?</p>
     <div className='aboutHosts'>
       <p>
-      <span className='hiOrange'>Hi</span>, dürfen wir uns vorstellen? Wir sind Svenja und Niko, die beiden hinter den Mikrofonen von brandit. Wir sind jedoch nicht nur Podcast-Hosts, sondern auch noch Geschäftspartner und ein Ehepaar. Gemeinsam ergänzen wir uns in allen Bereichen unseres Lebens und sind daher das perfekte Team. Aber lasst uns mal ein Stück zurückgehen, denn das war ja nicht immer so.
+      <span className='hiOrange'>Hi</span>, dürfen wir uns vorstellen? Wir sind Svenja und Niko, die beiden hinter den Mikrofonen von <em>brandit.</em> Wir sind jedoch nicht nur Podcast-Hosts, sondern auch noch Geschäftspartner und ein Ehepaar. Gemeinsam ergänzen wir uns in allen Bereichen unseres Lebens und sind daher das perfekte Team. Aber lasst uns mal ein Stück zurückgehen, denn das war ja nicht immer so.
       <br />
       <br />
       Kennengelernt haben wir uns 2016. Damals hatte Svenja noch den Plan, etwas im Bereich Wirtschaft zu machen, während Niko tagtäglich als Kameramann Reportagen für das deutsche Fernsehen produzierte. Schon in der ersten Phase unserer Beziehung gestalteten wir gemeinsam kleine Passion-Projects. Im Laufe unserer Beziehung arbeiteten wir an vielen unterschiedlichen kreativen Projekten, sei es beruflich oder privat. Wir gestalteten zum Beispiel eine NFT-Kunstkollektion, produzierten Kochvideos für YouTube, nahmen Produktvideos im Wohnzimmer auf und schrieben ein Kochbuch. Wir genossen es, unsere gemeinsame Zeit mit kreativen Projekten zu gestalten. Und von Projekt zu Projekt wurden wir immer professioneller und mutiger.
@@ -24,13 +24,13 @@ function UserProfile() {
       Wir belegten Kurse zum Thema Branding und lasen unendlich viele Bücher zu dem Thema. Wir erprobten unsere erlernten Fähigkeiten an unseren eigenen Projekten, gestalteten Logos, erschufen Corporate Designs und überlegten uns Content-Strategien. Das gemeinsame Arbeiten an Projekten in unserer Freizeit funktionierte super, und wir entschieden uns, dass wir auch in echt gerne zusammenarbeiten würden.
       <br />
       <br />
-      Also stieg Svenja erstmal als redaktionelle Assistenz bei Nikos Firma ein und erlernte alles rund ums Produzieren von TV-Berichten. Zusammenarbeiten machte Spaß, doch wir beide wollten mehr. Wir wollten die Fähigkeiten, die wir in den letzten Jahren gelernt und verinnerlicht hatten, miteinander kombinieren, um Videocontent gezielt einzusetzen, um Unternehmen so zu branden, dass sie ihre Ziele erreichen können. Das sollte es sein. Also gründeten wir unsere eigene Firma mit unseren eigenen Werten und unserer eigenen Vision und Mission. Grey Mountains Media entstand.
+      Also stieg Svenja erstmal als redaktionelle Assistenz bei Nikos Firma ein und erlernte alles rund ums Produzieren von TV-Berichten. Zusammenarbeiten machte Spaß, doch wir beide wollten mehr. Wir wollten die Fähigkeiten, die wir in den letzten Jahren gelernt und verinnerlicht hatten, miteinander kombinieren, um Videocontent gezielt einzusetzen, um Unternehmen so zu branden, dass sie ihre Ziele erreichen können. Das sollte es sein. Also gründeten wir unsere eigene Firma mit unseren eigenen Werten und unserer eigenen Vision und Mission. <a className='gMHosts' href='https://www.greymountains.de' target="_blank">Grey Mountains Media</a> entstand.
       <br />
       <br />
-      Wir wurden als neugegründete Firma unter anderem damit beauftragt, einen Videopodcast im True Crime-Segment zu produzieren. Wir übernahmen die Produktion, den Schnitt und das gesamte Social-Media-Marketing. Die Arbeit an dem Projekt machte unglaublich Spaß, und wir stellten uns die Frage, was für eine Art Podcast wir für unsere Firma produzieren könnten. brandit. - der Branding-Podcast, entstand. 
+      Wir wurden als neugegründete Firma unter anderem damit beauftragt, einen Videopodcast im True Crime-Segment zu produzieren. Wir übernahmen die Produktion, den Schnitt und das gesamte Social-Media-Marketing. Die Arbeit an dem Projekt machte unglaublich Spaß, und wir stellten uns die Frage, was für eine Art Podcast wir für unsere Firma produzieren könnten. <em>brandit.</em> - der Branding-Podcast, entstand. 
       <br />
       <br />
-      Die Vision hinter brandit. ist klar: Gemeinsam möchten wir unseren Zuhörern dabei helfen, ihre Branding-Ziele zu erreichen. Gatekeeping war gestern – wir wollen unser Wissen über Branding mit allen teilen, die Interesse daran haben, sich weiterzuentwickeln und ihre Marken zu stärken.
+      Die Vision hinter <em>brandit.</em> ist klar: Gemeinsam möchten wir unseren Zuhörern dabei helfen, ihre Branding-Ziele zu erreichen. Gatekeeping war gestern – wir wollen unser Wissen über Branding mit allen teilen, die Interesse daran haben, sich weiterzuentwickeln und ihre Marken zu stärken.
       Zusätzlich schaffen wir Vertrauen zu unseren zukünftigen Kunden, indem wir unsere Expertise vermitteln, und wir haben ein neues Passion Project, das wir mit unserem geballten Know-how angehen können.
       </p>
     </div>
