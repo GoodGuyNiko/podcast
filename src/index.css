@@ -6,7 +6,9 @@
   
   body {
     margin: 0;
-    
+    background-image: url(/src/assets/brandit_scribble_bg.png);
+    object-fit: cover;
+
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
       'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
       sans-serif;

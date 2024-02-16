@@ -21,7 +21,7 @@ function Folge3() {
     </a>
     </div>  
     <p className='subText'>
-    „Brief von svenja“
+    „Brief von Svenja“
     <br />
     <br />
     Herzlich willkommen zur dritten Folge von brandit.!

@@ -13,11 +13,12 @@ function HeroSection() {
      <img className='headerLogo' src={logoHead} alt='Brandit. Logo White' />
         <p className='pHead'>Der Branding Podcast</p>
         <div className='hero-btns'>
-        <Link to='/ueber'><Button className='btns' buttonStyle='btn--outline' buttonSize='btn--large'>
-            Über brandit.?
-        </Button></Link>
+        <Button className='btns' buttonStyle='btn--outline' buttonSize='btn--large'>
+        <Link to='ueber'></Link>
+            ABOUT
+        </Button>
         <Link to='https://open.spotify.com/show/3JYc6CejghMVvFXCrzZne8' target="_blank" rel="noopener noreferrer"><Button className='btns' buttonStyle='btn--outline' buttonSize='btn--large'>
-         Spotify 
+         SPOTIFY 
         </Button></Link>
         </div>
         </div> 
