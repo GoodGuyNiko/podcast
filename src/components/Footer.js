@@ -5,7 +5,7 @@ const Footer = () => {
   return (
     <div className='footer'>
       <div className='top'>
-        <div>
+        <div className='branditFooter'>
           <h1>brandit.</h1>
           <p>Der Branding Podcast</p>
         </div>
@@ -53,7 +53,7 @@ const Footer = () => {
           <h4>Kontakt</h4>
           <a href=''>Kontakt</a>
           <a href=''>Impressum</a>
-          <a href=''>Datenschutzerklärung</a>
+          <a href=''>Datenschutz</a>
         </div>
       </div>
     </div>

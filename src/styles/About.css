@@ -4,6 +4,7 @@
 
 .about h1 {
     font-size: 3rem;
+    margin-bottom: 2%;
 }
 
 .firstAbout {
@@ -62,6 +63,7 @@
         display: flex;
         flex-direction: column-reverse;
         margin-top: 2.5rem;
+        margin-bottom: 2.5rem;
     }
 
     .firstAboutReverse {
@@ -74,12 +76,8 @@
         width: 100%;
     }
 
-    .image {
+    .imageAbout {
         width: 100%;
         margin: 1.8rem 0;
-    }
-
-    .image img {
-        height: 250%;
     }
 }

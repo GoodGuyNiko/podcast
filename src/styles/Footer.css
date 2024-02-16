@@ -46,3 +46,20 @@
   padding-bottom: 0.4rem;
   font-size: 1.1rem;
 }
+
+@media screen and (max-width: 850px) {
+  .branditFooter {
+    text-align: center;
+    width: 100%;
+    margin-bottom: 1rem;
+  }
+
+  .socialMedia i {
+    font-size: 1.1rem;
+    text-align: center;
+  }
+
+  .bottom a {
+    font-size: small;
+  }
+}
