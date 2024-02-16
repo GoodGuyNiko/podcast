@@ -5,6 +5,26 @@
     padding-bottom: 12%;
 }
 
+.secondHeadline {
+    margin-bottom: 3%;
+}
+
+.hostsHeader img {
+    width: 100%;
+    margin-bottom: 5%; 
+}
+
+
+.aboutHosts {
+    hyphens: auto; 
+	text-align: justify;
+    font-size: larger;
+}
+
+.hiOrange {
+    color: #F15A24;
+}
+
 .user h1 {
     font-size: 3rem;
     color: #F15A24;
