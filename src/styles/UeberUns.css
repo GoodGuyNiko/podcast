@@ -6,11 +6,17 @@
     width: 80%;
 }
 
+.greyAbout {
+    color: #F15A24;
+}
+
 .aboutContainer {
-    margin-right: 15%;
-    margin-left: 15%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 5%;
     hyphens: auto; 
-	text-align: justify
+    text-align: justify;
+    font-size: larger;
 }
 
 .aboutQuestions {
@@ -19,6 +25,23 @@
     hyphens: auto; 
 	text-align: justify
 }
+
+.aboutFolgen {
+    color: white;
+    padding: 8px 22px;
+    border-radius: 6px;
+    border-color: transparent;
+    background-color: #F15A24;
+    text-decoration: none;
+    margin-bottom: 2%;
+    font-size: larger;
+}
+
+.aboutFolgen a {
+    color: white;
+    text-decoration: none;
+}
+
 
 .secondPart {
     background-color: #F15A24;
