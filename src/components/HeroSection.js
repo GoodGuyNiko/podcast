@@ -14,10 +14,10 @@ function HeroSection() {
         <p className='pHead'>Der Branding Podcast</p>
         <div className='hero-btns'>
         <Link to='/ueber'><Button className='btns' buttonStyle='btn--outline' buttonSize='btn--large'>
-            ABOUT
+            Über brandit.?
         </Button></Link>
         <Link to='https://open.spotify.com/show/3JYc6CejghMVvFXCrzZne8' target="_blank" rel="noopener noreferrer"><Button className='btns' buttonStyle='btn--outline' buttonSize='btn--large'>
-         SPOTIFY 
+         Spotify 
         </Button></Link>
         </div>
         </div> 

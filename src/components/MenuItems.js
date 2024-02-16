@@ -4,6 +4,11 @@ export const MenuItems = [
         url: "/",
         cName: "navLinks"
     },
+        {
+        title: "Über",
+        url: "/ueber",
+        cName: "navLinks"
+    },
     {
         title: "Episoden",
         url: "/episoden",

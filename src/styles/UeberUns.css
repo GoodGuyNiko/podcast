@@ -2,6 +2,10 @@
     margin-top: 10%;
 }
 
+.ueberHeader img {
+    width: 80%;
+}
+
 .aboutContainer {
     margin-right: 15%;
     margin-left: 15%;
@@ -22,4 +26,12 @@
 
 .secondPart p {
     color: white;
+}
+
+
+@media screen and (max-width:850px){
+    .ueberContainer{
+        margin: 4rem 2rem;
+        padding-top: 10%;
+    }
 }

@@ -5,7 +5,7 @@ import branditBanner from '../assets/brandit_banner_about.jpg'
 function UeberUns() {
   return (
     <div className='ueberContainer'>
-    <div className='logoHeader'>
+    <div className='ueberHeader'>
     <img src={branditBanner} /></div>
       <h1>brandit. und sonst?</h1>
       <div className='aboutContainer'>
