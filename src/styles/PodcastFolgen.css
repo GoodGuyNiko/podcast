@@ -17,7 +17,8 @@
     margin-right: 10%;
     margin-bottom: 5%;
     hyphens: auto; 
-	text-align: justify
+	text-align: justify;
+    font-size: larger;
 }
 
 .folgenLinks i {
@@ -40,6 +41,7 @@
     background-color: #F15A24;
     text-decoration: none;
     margin-bottom: 2%;
+    font-size: larger;
 }
 
 .backEpisode a {
